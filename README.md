@@ -1,8 +1,7 @@
-Ciao mi chiamo claugo e sono un programmatore fai date con la passione della crittografia.
+Ciao mi chiamo claugo e sono un programmatore fai date con la passione della crittografia e dei numeri primi.
 Il linguaggio che uso in modo molto spartano è Python.
-Non sono interessato a creare programmi commerciali, mi diletto a creare programmi personali o su richiesta a qualche amico,
-tuttavia negli ultimi due anni ho scoperto un sistema di fattorizzazione incredibilmente potente e sulla base di quello ho creato dei programmi di criptazione documenti e una chat privata.
-Naturalmente questo non è il mio campo ma ciò che ho scoperto sulla fattorizzazione di grandi numeri semiprimi mi stimola a cercare di creare questi programmi, anche solo per me.
-Ho reso pubblico per un po' questi programmi ma ogni giorno mi accorgo della potenza di questo algoritmo GC57 e continuo a modificarli rendendoli sempre più sicuri e potenti.
-Per il momento continuerò a tenere privato i programmi, almeno fino a quando non sarò soddisfatto al 100% di quello che riuscirò a fare
-
+Ho voluto rendere pubblico un algoritmo che ho chiamato GC57 e che ha la particoloarità di risolvere le fattorizzazioni su grandi nsemiprimi in tempo zero, e cioè all'istante.
+Per dare una idea di come funziona l'algoritmo ho creato questi programmi di codifica con il solo fine di mostrare l'algoritmo. 
+I programmi sono in secondo piano anche se questi possono essere utilizzati a scopo personale per nascondere i propri dati e i propri file, o chattare con un altro computer in rete.
+La codifica a scostamento che ho usato è semplice ma viene resa più sicura dalla chiave che genera il GC57 e dalla scostamento randomizzato che si crea a ogni chiave creata
+Non mi aspetto niente dalla comunità, casomai sarei soddisfatto se qualcuno prendesse in considerazione questo algoritmo e creasse un programma crittografico sulla base della velocità a tempo zero
