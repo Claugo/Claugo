@@ -6,8 +6,4 @@ Per illustrare il funzionamento di questo algoritmo, ho sviluppato una serie di 
 per dimostrare l’efficacia del GC57, possono anche essere utilizzati a fini personali, ad esempio per proteggere dati e file sensibili o per comunicare in modo
 sicuro tra computer in rete.
 
-La codifica utilizzata è volutamente semplice, ma la sicurezza è rafforzata dalla chiave generata dall'algoritmo GC57 e da un meccanismo di scostamento randomizzato,
-che varia con ogni chiave creata.
-
-Non ho particolari aspettative dalla comunità, ma sarei lieto se qualcuno riconoscesse il potenziale di questo algoritmo e decidesse di sviluppare soluzioni
-crittografiche basate sulla sua straordinaria velocità.
+Se ne volete sapere di più visitate https://claugo.github.io/GC57PrimeCrypt/
