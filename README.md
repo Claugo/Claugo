@@ -6,4 +6,5 @@ Per illustrare il funzionamento di questo algoritmo, ho sviluppato una serie di 
 per dimostrare l’efficacia del GC57, possono anche essere utilizzati a fini personali, ad esempio per proteggere dati e file sensibili o per comunicare in modo
 sicuro tra computer in rete.
 
-Se ne volete sapere di più visitate https://claugo.github.io/GC57PrimeCrypt/
+Se ne volete sapere di più visitate https://claugo.github.io/GC57PrimeCrypt/ OPPURE  www.gc57crypto.net
+
