@@ -3,7 +3,7 @@ Il risultato di questa ricerca è GC57, un algoritmo originale in grado di fatto
 
 GC57 sfrutta proprietà numeriche che ho individuato attraverso un approccio logico-sperimentale e non basato sulla letteratura accademica. I fattori dei semiprimi vengono determinati con rapidità, permettendo di generare chiavi crittografiche in modo controllato.
 
-Su questa base, ho sviluppato un sistema di cifratura simmetrica che utilizza:
+Su questa base, ho sviluppato un sistema a chiave simmetrica indipendente dalla chiave di cifratura, che utilizza:
 
     la generazione controllata di semiprimi molto grandi (fino a decine di migliaia di bit);
 
