@@ -1,10 +1,21 @@
-Salve, mi chiamo Claugo e sono un appassionato di crittografia e numeri primi, oltre che un programmatore autodidatta. Utilizzo principalmente Python, 
-anche se in maniera essenziale e pragmatica. Ho deciso di rendere pubblico un algoritmo che ho denominato GC57, caratterizzato dalla straordinaria capacità
-di risolvere la fattorizzazione di grandi semiprimi in tempo zero, ovvero istantaneamente.
+Mi chiamo Cladio Govi. Da anni mi dedico, in modo indipendente, allo studio della fattorizzazione dei semiprimi e delle sue potenzialità applicative in ambito crittografico.
+Il risultato di questa ricerca è GC57, un algoritmo originale in grado di fattorizzare grandi semiprimi istantaneamente, indipendentemente dalla loro dimensione. L'algoritmo non fa uso di metodi probabilistici, euristici o computazionalmente intensivi.
 
-Per illustrare il funzionamento di questo algoritmo, ho sviluppato una serie di programmi di codifica. Sebbene questi strumenti siano principalmente pensati
-per dimostrare l’efficacia del GC57, possono anche essere utilizzati a fini personali, ad esempio per proteggere dati e file sensibili o per comunicare in modo
-sicuro tra computer in rete.
+GC57 sfrutta proprietà numeriche che ho individuato attraverso un approccio logico-sperimentale e non basato sulla letteratura accademica. I fattori dei semiprimi vengono determinati con rapidità, permettendo di generare chiavi crittografiche in modo controllato.
 
-Se ne volete sapere di più visitate https://claugo.github.io/GC57PrimeCrypt/ OPPURE  www.gc57crypto.net
+Su questa base, ho sviluppato un sistema di cifratura simmetrica che utilizza:
+
+    la generazione controllata di semiprimi molto grandi (fino a decine di migliaia di bit);
+
+    l'estrazione immediata dei fattori, da cui viene derivata la chiave simmetrica;
+
+    la cifratura e decifratura di file e messaggi;
+
+    la possibilità di includere dati accessori (es. allegati) all’interno del file cifrato.
+
+L’implementazione è realizzata in Python, con particolare attenzione alla gestione di grandi numeri interi, all'uso controllato di hash crittografici e alla semplicità operativa.
+
+    Nota importante: GC57 non si basa su metodi accademici consolidati, ma su un modello logico personale sperimentato empiricamente.
+    
+Se ne volete saperne di più visitate https://claugo.github.io/GC57PrimeCrypt/ OPPURE  www.gc57crypto.net
 
