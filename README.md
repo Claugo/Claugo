@@ -17,5 +17,5 @@ L’implementazione è realizzata in Python, con particolare attenzione alla ges
 
     Nota importante: GC57 non si basa su metodi accademici consolidati, ma su un modello logico personale sperimentato empiricamente.
     
-Se ne volete saperne di più visitate https://claugo.github.io/GC57PrimeCrypt/ OPPURE  www.gc57crypto.net
+Se volete saperne di più visitate https://claugo.github.io/GC57PrimeCrypt/ OPPURE  www.gc57crypto.net
 
