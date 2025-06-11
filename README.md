@@ -7,7 +7,7 @@ Su questa base, ho sviluppato un sistema di cifratura simmetrica che utilizza:
 
     la generazione controllata di semiprimi molto grandi (fino a decine di migliaia di bit);
 
-    l'estrazione immediata dei fattori, da cui viene derivata la chiave simmetrica;
+    l'estrazione immediata dei fattori, da cui viene derivata la chiave di cifratura;
 
     la cifratura e decifratura di file e messaggi;
 
