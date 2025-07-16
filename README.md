@@ -15,17 +15,26 @@ Su questa base, ho sviluppato un sistema a chiave simmetrica indipendente dalla 
 
 L’implementazione è realizzata in Python, con particolare attenzione alla gestione di grandi numeri interi, all'uso controllato di hash crittografici e alla semplicità operativa.
 
-    Nota importante: Il metodo GC57 non si fonda su approcci accademici tradizionali, bensì su un modello logico originale, sviluppato e testato empiricamente. I programmi di crittografia da me realizzati non hanno finalità commerciali, ma servono esclusivamente come strumenti dimostrativi per evidenziare, in modo pratico, l’efficacia di questo metodo di fattorizzazione.
-
+"""    
+Nota importante: Il metodo GC57 non si fonda su approcci accademici tradizionali, bensì su un modello logico originale, sviluppato e testato empiricamente. 
+I programmi di crittografia da me realizzati non hanno finalità commerciali, ma servono esclusivamente come strumenti dimostrativi per evidenziare, in modo pratico,
+l’efficacia di questo metodo di fattorizzazione.
+"""
 Per approfondire:
 Potete visitare il sito informativo:
+
 🔹 https://claugo.github.io/GC57PrimeCrypt/
+
 oppure
+
 🔹 https://www.gc57crypto.net
 
 L’intero saggio sul sistema GC57, articolato in tre documenti distinti, è disponibile su Zenodo:
+
 📄 Documento introduttivo: https://zenodo.org/records/15640331
+
 📄 Approfondimento tecnico: https://zenodo.org/records/15742011
+
 📄 Estensione ai contenitori modulari: https://zenodo.org/records/15809129
 
 Autore ORCID: https://orcid.org/0009-0005-9020-0691
