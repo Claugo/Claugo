@@ -20,7 +20,9 @@ Nota importante: Il metodo GC57 non si fonda su approcci accademici tradizionali
 I programmi di crittografia da me realizzati non hanno finalità commerciali, ma servono esclusivamente come strumenti dimostrativi per evidenziare, in modo pratico,
 l’efficacia di questo metodo di fattorizzazione.
 """
+
 Per approfondire:
+
 Potete visitare il sito informativo:
 
 🔹 https://claugo.github.io/GC57PrimeCrypt/
