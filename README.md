@@ -1,7 +1,7 @@
 Mi chiamo Claudio Govi. Da anni mi dedico, in modo indipendente, allo studio della fattorizzazione dei semiprimi e delle sue potenzialità applicative in ambito crittografico.
 Il risultato di questa ricerca è GC57, un algoritmo originale in grado di fattorizzare grandi semiprimi istantaneamente, indipendentemente dalla loro dimensione. L'algoritmo non fa uso di metodi probabilistici, euristici o computazionalmente intensivi.
 
-GC57 sfrutta proprietà numeriche che ho individuato attraverso un approccio logico-sperimentale e non basato sulla letteratura accademica. I fattori dei semiprimi vengono determinati con rapidità, permettendo di generare chiavi crittografiche in modo controllato.
+GC57 sfrutta relazioni numeriche che ho individuato attraverso un approccio logico-sperimentale e non basato sulla letteratura accademica. I fattori dei semiprimi vengono determinati con rapidità, permettendo di generare chiavi crittografiche in modo controllato.
 
 Su questa base, ho sviluppato un sistema a chiave simmetrica indipendente dalla chiave di cifratura, che utilizza:
 
